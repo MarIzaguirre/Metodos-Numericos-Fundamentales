@@ -3,3 +3,4 @@ C.I.: 30.408.349
 Sección: 0520
 Cálculo numérico I
 Prof. Edgar Decena
+Julio, 2025
